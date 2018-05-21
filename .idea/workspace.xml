@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccdcae3e-f26a-400c-acbf-2283d81c6b4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date20_05_2018/FindMaxSumNoAdjcentElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date20_05_2018/SearchElementRotatedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date20_05_2018/FindMaximumJ_I.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Arrays/date20_05_2018/Find_the_two_repeating_elements.class" afterPath="$PROJECT_DIR$/out/production/Arrays/date20_05_2018/Find_the_two_repeating_elements.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java" afterPath="$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java" afterPath="$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Find_the_two_repeating_elements.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,11 +78,12 @@
         <option value="$PROJECT_DIR$/src/date20_05_2018/FindFourElementsSum.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/FindMaxSum.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/FormBiggestNumber.java" />
-        <option value="$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/SearchElementRotatedArray.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/FindMaxSumNoAdjcentElements.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java" />
+        <option value="$PROJECT_DIR$/src/date20_05_2018/FindMaximumJ_I.java" />
+        <option value="$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java" />
       </list>
     </option>
   </component>
@@ -170,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Find_the_two_repeating_elements">
+  <component name="RunManager" selected="Application.ArraySortByFrequency">
     <configuration name="ArraySortByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -198,6 +186,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="date20_05_2018.FindMaxSumNoAdjcentElements" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Arrays" />
+      <envs />
+    </configuration>
+    <configuration name="FindMaximumJ_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="date20_05_2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="date20_05_2018.FindMaximumJ_I" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -247,25 +254,6 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="Sum_Of_N_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="date20_05_2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="date20_05_2018.Sum_Of_N_Numbers" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Arrays" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -282,19 +270,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArraySortByFrequency" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Sum_Of_N_Numbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SearchElementRotatedArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindMaxSumNoAdjcentElements" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Find_the_two_repeating_elements" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SearchElementRotatedArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FindMaxSumNoAdjcentElements" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Find_the_two_repeating_elements" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindMaximumJ_I" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ArraySortByFrequency" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Find_the_two_repeating_elements" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindMaxSumNoAdjcentElements" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SearchElementRotatedArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Sum_Of_N_Numbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArraySortByFrequency" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ArraySortByFrequency" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FindMaximumJ_I" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Find_the_two_repeating_elements" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FindMaxSumNoAdjcentElements" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SearchElementRotatedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -315,16 +303,15 @@
       <workItem from="1526794465299" duration="3141000" />
       <workItem from="1526824783078" duration="2671000" />
       <workItem from="1526830696434" duration="6808000" />
-      <workItem from="1526883741777" duration="12741000" />
+      <workItem from="1526883741777" duration="17817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102489000" />
+    <option name="totallyTimeSpent" value="107565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1374" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -366,14 +353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -666,46 +645,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/date20_05_2018/FormBiggestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="e#606#635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -718,21 +661,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/FindMaxSumNoAdjcentElements.java">
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="21">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="e#607#636#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state relative-caret-position="353">
+          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/FindMaximumJ_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/FindMaxSumNoAdjcentElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

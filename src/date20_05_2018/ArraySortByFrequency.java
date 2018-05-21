@@ -3,6 +3,7 @@ package date20_05_2018;
 import java.util.*;
 
 public class ArraySortByFrequency {
+
     public static void FrequencySort(int a[], int n){
         HashMap<Integer , Integer> map = new HashMap<>();
         for (int i = 0 ; i<n;i++){
