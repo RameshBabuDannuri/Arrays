@@ -1,49 +1,42 @@
 package date20_05_2018;
 
 public class FindMaxSum {
+    int max(int x,int y){
+        return x<y ? y : x;
+    }
 
     int maxSum(int a[], int b[] , int m, int n){
 
         int sum1 = 0 , sum2 = 0, result = 0;
         int i =0 , j = 0;
-        while(i<m && j<n){
 
-            if (a[i]<b[i]){
-                sum1 = sum1+a[i];
+        while(i<m && j<n){
+            if (a[i]<b[j]){
+                sum1 = sum1+a[i++];
             }
             else if (a[i]>b[j]){
-                sum2 = sum2+b[j];
+                sum2 = sum2+b[j++];
             }
+
             else {
-                if (sum1>sum2){
-                    result = result+sum1;
-                }
-                else{
-                    result = result+sum2;
-                }
+                result = result+max(sum1,sum2);
                 sum1 = 0 ;
                 sum2 =0;
+
                 while (i < m && j < n && a[i] == b[j])
                 {
                     result = result + a[i++];
                     j++;
                 }
             }
-
         }
         while (i < m)
-            sum1 = sum1+a[i++];
+            sum1 = sum1 + a[i++];
 
         while (j < n)
-            sum2 = sum2+b[j++];
+            sum2 = sum2 + b[j++];
 
-        if (sum1>sum2){
-            result = result+ sum1;
-        }
-        else {
-            result=result+sum2;
-        }
-        System.out.println(result);
+        result = result+max(sum1,sum2);
 
         return result;
     }
@@ -54,7 +47,6 @@ public class FindMaxSum {
         int ar2[] = {1, 5, 7, 8, 10, 15, 16, 19};
         int m = ar1.length;
         int n = ar2.length;
-        System.out.println("Maximum sum path is :");
-        System.out.println(sum.maxSum(ar1, ar2, m, n));
+        System.out.println("sum :"+sum.maxSum(ar1, ar2, m, n));
     }
 }

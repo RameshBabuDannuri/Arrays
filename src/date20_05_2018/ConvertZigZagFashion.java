@@ -1,7 +1,11 @@
 package date20_05_2018;
 
 import java.util.Arrays;
-
+/*
+Given an array of distinct elements, rearrange the elements of
+array in zig-zag fashion in O(n) time.
+ The converted array should be in form a < b > c < d > e < f.
+ */
 public class ConvertZigZagFashion {
 
     public void sampleApproch(int a[], int n){
@@ -14,7 +18,7 @@ public class ConvertZigZagFashion {
         }
 
     }
-    public void efficientApproch(int a[], int n){
+    public void efficientApproch(int a[], int n) {
         for (int i = 0; i<n ; i+=2){
             if (i>0 && a[i-1]>a[i]){
                 swap(a,i,i-1);
