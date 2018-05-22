@@ -24,14 +24,53 @@ public class FindMaximumJ_I {
         }
         System.out.println("maximum difference is: "+maxDiff +" ,i = "+min_i+", j="+min_j);
     }
+    //O(n) O(n) space complexity
+    static int bestApproch(int a[] , int n){
+        int i , j;
+        int Lmin[] = new int[n];
+        int Rmax[] = new int[n];
+        Lmin[0] = a[0];
+
+        for (i  =1 ; i<n ; i++){
+            Lmin[i] = min(a[i] , Lmin[i-1]);
+        }
+        Rmax[n-1] = a[n-1];
+        for (j = n-2 ; j>=0 ; j--){
+            Rmax[j] = max(a[j] , Rmax[j+1]);
+        }
+        i =0 ; j = 0;
+        int maxDiff = -1;
+        while (i<n && j<n){
+            if (Lmin[i]<Rmax[j]){
+                maxDiff = max(maxDiff , j-i);
+                j = j+1;
+            }
+            else {
+                i = i+1;
+            }
+        }
+        return maxDiff;
+
+    }
+
+
+    static int max(int x, int y)
+    {
+        return x > y ? x : y;
+    }
+
+    static int min(int x, int y)
+    {
+        return x < y ? x : y;
+    }
 
     public static void main(String args[]){
-        int a[] = {34, 8, 10, 3, 2, 80, 30, 33, 1};
+        int a[] = {4,3,10,2,9,1,6};
         MaxDifference(a,a.length);
         int b[] = {1, 2, 3,4,5,6,7};
         MaxDifference(b,b.length);
         int c[] = {6,5,4,3,2,1};
-        MaxDifference(c,c.length);
+       System.out.println( bestApproch(a,a.length));
 
     }
 }

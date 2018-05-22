@@ -47,8 +47,7 @@ public class FindPairSum {
         for (int i = 0 ; i<n ; i++){
             int temp = x-a[i];
             if (set.contains(temp)){
-                System.out.println("sum pairs are = "+a[i]+", "+temp);
-                return;
+                System.out.println("sum pairs are = "+a[i]+", "+temp);                //return;
             }
             set.add(a[i]);
         }
@@ -57,9 +56,9 @@ public class FindPairSum {
     }
 
      public static void main(String args[]){
-        int a[] = {1, 4, 45, 6, 10, -8};
-        sampleApproch(a,a.length,160);
-        sortApproch(a,a.length,10);
-        hashApproch(a,a.length,14);
+        int a[] = {2,4,3,5,1,7,-1 };
+        sampleApproch(a,a.length,6);
+        sortApproch(a,a.length,6);
+        hashApproch(a,a.length,6);
      }
 }
