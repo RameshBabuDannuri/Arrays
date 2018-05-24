@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccdcae3e-f26a-400c-acbf-2283d81c6b4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/IsInorderOrNot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="171" column="28" lean-forward="false" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+              <caret line="162" column="28" lean-forward="false" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -37,11 +38,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintSorted.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintSorted.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="42">
               <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintK1ToK2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedArrayToBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/date22_05_2018/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -67,9 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FirstRepeatElement.java" />
-        <option value="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FirstNonReapeatElement.java" />
-        <option value="$PROJECT_DIR$/src/date18_05_2018/LInkedhashMap.java" />
         <option value="$PROJECT_DIR$/src/date18_05_2018/LinkedhashMap.java" />
         <option value="$PROJECT_DIR$/src/date18_05_2018/ArrayListCustom.java" />
         <option value="$PROJECT_DIR$/src/date18_05_2018/ImplementationOfHashMap.java" />
@@ -118,6 +146,9 @@
         <option value="$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/date22_05_2018/IsInorderOrNot.java" />
         <option value="$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java" />
+        <option value="$PROJECT_DIR$/src/date22_05_2018/Node.java" />
+        <option value="$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java" />
+        <option value="$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java" />
       </list>
     </option>
   </component>
@@ -192,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsInorderOrNot">
+  <component name="RunManager" selected="Application.SortedArrayToBST">
     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -250,14 +281,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="date22_05_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date22_05_2018.MaximumProductSubarray" />
+      <option name="MAIN_CLASS_NAME" value="date22_05_2018.SortedArrayToBST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -304,19 +335,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MaximumProductSubarray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KthFrequentElement" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Top_K_Frequent_Elements" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IsInorderOrNot" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KthFrequentElement" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Top_K_Frequent_Elements" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IsInorderOrNot" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortedArrayToBST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IsInorderOrNot" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Top_K_Frequent_Elements" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KthFrequentElement" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MaximumProductSubarray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortedArrayToBST" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IsInorderOrNot" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Top_K_Frequent_Elements" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KthFrequentElement" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +370,12 @@
       <workItem from="1526830696434" duration="6808000" />
       <workItem from="1526883741777" duration="57435000" />
       <workItem from="1527084769107" duration="5350000" />
-      <workItem from="1527169719329" duration="6965000" />
+      <workItem from="1527169719329" duration="8096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159498000" />
+    <option name="totallyTimeSpent" value="160629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1374" height="768" extended-state="0" />
@@ -359,7 +390,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6614173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -405,27 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FindValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/Difference_between_groups_of_size_two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date18_05_2018/ArrayListCustom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="70" column="55" lean-forward="false" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/date18_05_2018/ImplementationOfHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -755,7 +765,7 @@
     <entry file="file://$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="171" column="28" lean-forward="false" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+          <caret line="162" column="28" lean-forward="false" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -770,8 +780,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="42">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>
