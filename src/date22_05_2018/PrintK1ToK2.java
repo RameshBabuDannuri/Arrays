@@ -29,8 +29,17 @@ public class PrintK1ToK2 {
             Print(node.right, k1, k2);
         }
     }
+    void inorder(Node node , int K1,int K2){
+        if (node == null){
+            return;
+        }
+        inorder(node.left, K1,K2);
+        if (node.data>=K1 && node.data<=K2){
+            System.out.print(node.data+" ,");
+        }
+        inorder(node.right,K1,K2);
 
-
+    }
     public static void main(String[] args) {
         PrintK1ToK2 tree = new PrintK1ToK2();
         int k1 = 10, k2 = 25;
@@ -41,5 +50,6 @@ public class PrintK1ToK2 {
         tree.root.left.right = new Node(12);
 
         tree.Print(root, k1, k2);
+        tree.inorder(root,k1,k2);
     }
 }
