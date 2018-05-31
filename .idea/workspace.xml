@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccdcae3e-f26a-400c-acbf-2283d81c6b4f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Arrays/date_30_05_2018/FindDistance.class" afterPath="$PROJECT_DIR$/out/production/Arrays/date_30_05_2018/FindDistance.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java" afterPath="$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java" />
     </list>
@@ -15,11 +20,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindDistance.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java">
+      <file leaf-file-name="Ancestor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintKthAncestor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintNodeAncestors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="222">
-              <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+              <caret line="33" column="0" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintCommonNodes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-275">
+              <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -45,10 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/date20_05_2018/Add.java" />
-        <option value="$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java" />
-        <option value="$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java" />
-        <option value="$PROJECT_DIR$/src/date20_05_2018/FindMaxSum.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/FormBiggestNumber.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java" />
         <option value="$PROJECT_DIR$/src/date20_05_2018/SearchElementRotatedArray.java" />
@@ -95,7 +129,11 @@
         <option value="$PROJECT_DIR$/src/date_26_05_2018/FindDiameter.java" />
         <option value="$PROJECT_DIR$/src/date_30_05_2018/LeveleOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/date_30_05_2018/FindLCA.java" />
+        <option value="$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java" />
+        <option value="$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java" />
         <option value="$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java" />
+        <option value="$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java" />
+        <option value="$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java" />
       </list>
     </option>
   </component>
@@ -141,7 +179,7 @@
               <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="date_26_05_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="date_30_05_2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,15 +213,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDistance">
-    <configuration name="FindDiameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PrintKthAncestor">
+    <configuration name="Ancestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_26_05_2018.*" />
+          <option name="PATTERN" value="date_30_05_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_26_05_2018.FindDiameter" />
+      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.Ancestor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -214,14 +252,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="FindLCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintCommonNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="date_30_05_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.FindLCA" />
+      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.PrintCommonNodes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -233,14 +271,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="LevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintKthAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_26_05_2018.*" />
+          <option name="PATTERN" value="date_30_05_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_26_05_2018.LevelOrderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.PrintKthAncestor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -252,14 +290,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="LeveleOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintNodeAncestors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="date_30_05_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.LeveleOrderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="date_30_05_2018.PrintNodeAncestors" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -287,19 +325,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindDiameter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LeveleOrderTraversal" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LevelOrderTraversal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindLCA" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FindDistance" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindDistance" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrintNodeAncestors" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrintCommonNodes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Ancestor" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PrintKthAncestor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FindDistance" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindLCA" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LeveleOrderTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderTraversal" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindDiameter" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrintKthAncestor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ancestor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrintNodeAncestors" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrintCommonNodes" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -326,12 +364,12 @@
       <workItem from="1527314285573" duration="4864000" />
       <workItem from="1527355798397" duration="11767000" />
       <workItem from="1527524274935" duration="3105000" />
-      <workItem from="1527608801842" duration="14039000" />
+      <workItem from="1527608801842" duration="20417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195962000" />
+    <option name="totallyTimeSpent" value="202340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1374" height="768" extended-state="0" />
@@ -350,7 +388,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6614173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30365297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30365297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -421,34 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/SearchElementRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -788,8 +798,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <caret line="33" column="0" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding />
         </state>
       </provider>

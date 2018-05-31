@@ -71,8 +71,5 @@ public class FindDistance {
                 + tree.findDistance(root, 4, 7));
         System.out.println("Dist(2, 8) = "
                 + tree.findDistance(root, 2, 8));
-
-
-
     }
 }
