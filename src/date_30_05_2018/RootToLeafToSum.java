@@ -10,7 +10,7 @@ public class RootToLeafToSum {
         if(root == null){
             return false;
         }
-
+/*
         if(root.left == null && root.right == null){
             if(root.data == sum){
                 path.add(root);
@@ -23,6 +23,20 @@ public class RootToLeafToSum {
                 printPath(root.right, sum - root.data, path)){
             path.add(root);
             return true;
+        }
+        return false;
+        */
+
+      if (root.left == null && root.right == null){
+          if (root.data == sum){
+              path.add(root);
+              return true;
+          }
+      }
+      if(printPath(root.left , sum-root.data,path) ||
+              printPath(root.right , sum-root.data , path)) {
+          path.add(root);
+          return true;
         }
         return false;
     }
