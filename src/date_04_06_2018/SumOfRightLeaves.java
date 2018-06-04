@@ -1,4 +1,4 @@
-package date_04_05_2018;
+package date_04_06_2018;
 
 public class SumOfRightLeaves {
     static Node root = null;

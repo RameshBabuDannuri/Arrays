@@ -1,4 +1,4 @@
-package date_04_05_2018;
+package date_04_06_2018;
 /*
 Given a binary tree containing n nodes. The problem is to
 find the sum of all the parent node’s which have a child node with value x.

@@ -1,4 +1,4 @@
-package date_04_05_2018;
+package date_04_06_2018;
 
  class MergeTwoTreesSum {
   static   Node merge(Node t1, Node t2){
