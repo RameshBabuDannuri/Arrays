@@ -1,20 +1,20 @@
 package date_31_05_2018;
 
+import java.util.ArrayList;
 import java.util.Map;
 import java.util.TreeMap;
-import java.util.Vector;
 
 public class VerticalOrder {
     static void getVertical(Node root, int hd ,
-                            TreeMap<Integer  , Vector<Integer>> m){
+                            TreeMap<Integer  , ArrayList<Integer>> m){
 
         if (root == null){
             return;
         }
-        Vector<Integer> get = m.get(hd);
+        ArrayList<Integer> get = m.get(hd);
 
         if (get == null){
-            get = new Vector<>();
+            get = new ArrayList<>();
             get.add(root.data);
 
         }
@@ -28,10 +28,10 @@ public class VerticalOrder {
     }
     static void printVerticalOrder(Node root)
     {
-        TreeMap<Integer,Vector<Integer>> m = new TreeMap<>();
+        TreeMap<Integer,ArrayList<Integer>> m = new TreeMap<>();
         int hd =0;
         getVertical(root,hd,m);
-        for (Map.Entry<Integer, Vector<Integer>> entry : m.entrySet())
+        for (Map.Entry<Integer, ArrayList<Integer>> entry : m.entrySet())
         {
             System.out.println(entry.getValue());
         }

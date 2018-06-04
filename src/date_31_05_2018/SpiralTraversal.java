@@ -21,7 +21,7 @@ public class SpiralTraversal {
             return;
         }
         Stack<Node> s1= new Stack();
-        Stack<Node> s2 = new Stack<Node>();
+        Stack<Node> s2 = new Stack();
 
         s1.push(root);
         while(!s1.isEmpty() || !s2.isEmpty()){
