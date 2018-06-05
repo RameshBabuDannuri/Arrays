@@ -2,31 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccdcae3e-f26a-400c-acbf-2283d81c6b4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/date_03_06_2018/FIndSum.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/ConstructBTUsingPostOrderInOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/ConstructBTUsingPreorderInorder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/FindMirrorNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/IsFoldableTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/MergeTwoTreesSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfAllNodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfAllParentNodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfLeftLeaves$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfLeftLeaves.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfRightLeaves$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/SumOfRightLeaves.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Arrays/date_04_05_2018/VerticalOrderSum.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/ConstructBTUsingPostOrderInOrder.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPostOrderInOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/ConstructBTUsingPreorderInorder.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPreorderInorder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/FindMirrorNode.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/FindMirrorNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/IsFoldableTree.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/IsFoldableTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/MergeTwoTreesSum.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/MergeTwoTreesSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/SumOfAllNodes.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/SumOfAllNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/SumOfAllParentNodes.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/SumOfAllParentNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/SumOfLeftLeaves.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/SumOfLeftLeaves.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/SumOfRightLeaves.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/SumOfRightLeaves.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_05_2018/VerticalOrderSum.java" afterPath="$PROJECT_DIR$/src/date_04_06_2018/VerticalOrderSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/FindPairRootSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/MaxPathSumRootToLeaf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/ModifiedTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/SerializeAndDeserialize.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/SumOfNodesOnLongestPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/CreateWaveForm.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/CreateWaveForm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/Difference_between_groups_of_size_two.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/Difference_between_groups_of_size_two.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FindValue.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/FindValue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FirstNonReapeatElement.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/FirstNonReapeatElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/FirstRepeatElement.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/FirstRepeatElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/LeastFrequentElement.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/LeastFrequentElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/SeparateNeagativePositiveNumbers.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/SeparateNeagativePositiveNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/SepatareEvenAndOddNumbers.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/SepatareEvenAndOddNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ramesh/practice/date17_05_2018/Space_optimization_using_bit_manipulations.java" afterPath="$PROJECT_DIR$/src/Array/date17_05_201/Space_optimization_using_bit_manipulations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/ArrayListCustom.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/ArrayListCustom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/HashSetCustom.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/HashSetCustom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/ImplementationOfHashMap.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/ImplementationOfHashMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/LinkedhashMap.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/LinkedhashMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/Test.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date18_05_2018/Test2.java" afterPath="$PROJECT_DIR$/src/Array/date18_05_2018/Test2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/FindClosestPair.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/FindClosestPair.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/FindClosestSumPair.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/FindClosestSumPair.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/FindLangestSubSequence.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/FindLangestSubSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/FindPairSum.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/FindPairSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/LongestContiguousSubSequence.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/LongestContiguousSubSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/Majority.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/Majority.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/MajorityElement.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/MajorityElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/MergeArrays.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/MergeArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/PythagoreanTriplet.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/PythagoreanTriplet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/RotateArray.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/RotateArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/RotateArrayOofN.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/RotateArrayOofN.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/SegregateEvenOddNumbers.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/SegregateEvenOddNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date19_05_2018/SumClosestToZero.java" afterPath="$PROJECT_DIR$/src/Array/date19_05_2018/SumClosestToZero.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/ArraySortByFrequency.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/ArraySortByFrequency.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/ConvertZigZagFashion.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/ConvertZigZagFashion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/FindFourElementsSum.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/FindFourElementsSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/FindMaxSum.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/FindMaxSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/FindMaxSumNoAdjcentElements.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/FindMaxSumNoAdjcentElements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/FindMaximumJ_I.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/FindMaximumJ_I.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/Find_the_two_repeating_elements.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/Find_the_two_repeating_elements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/FormBiggestNumber.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/FormBiggestNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/SearchElementRotatedArray.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/SearchElementRotatedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/Sum_Of_N_Numbers.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/Sum_Of_N_Numbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date20_05_2018/UnionAndIntersection.java" afterPath="$PROJECT_DIR$/src/Array/date20_05_2018/UnionAndIntersection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/BinarySearch.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/BinarySearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/CountSmaller.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/CountSmaller.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/FIndEquilibrium.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/FIndEquilibrium.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/FIndMaxDifference.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/FIndMaxDifference.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/FindElementInUnKnownSize.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/FindElementInUnKnownSize.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/FindTriplet.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/FindTriplet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/Find_Number_Occuring_Odd_Number_of_times.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/Find_Number_Occuring_Odd_Number_of_times.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/KthMissingElementInSortedArray.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/KthMissingElementInSortedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/Separate_0s_and_1s.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/Separate_0s_and_1s.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date21_05_2018/findRightSideSmallerElements.java" afterPath="$PROJECT_DIR$/src/Array/date21_05_2018/findRightSideSmallerElements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/BinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/CheckDeadEndOrNot.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/CheckDeadEndOrNot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/IsInorderOrNot.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/IsInorderOrNot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/KthFrequentElement.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/KthFrequentElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/MaximumProductSubarray.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/MaximumProductSubarray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/Node.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/Node.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/PrintK1ToK2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/PrintSorted.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/SortedArrayToBST.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date22_05_2018/Top_K_Frequent_Elements.java" afterPath="$PROJECT_DIR$/src/Array/date22_05_2018/Top_K_Frequent_Elements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/DiagonalSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/DiagonalSum2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_03_06_2018/FIndSum.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/FIndSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPostOrderInOrder.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/ConstructBTUsingPostOrderInOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPreorderInorder.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/ConstructBTUsingPreorderInorder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/FindMirrorNode.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/FindMirrorNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/IsFoldableTree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/IsFoldableTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/MergeTwoTreesSum.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/MergeTwoTreesSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/SumOfAllNodes.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfAllNodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/SumOfAllParentNodes.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfAllParentNodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/SumOfLeftLeaves.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfLeftLeaves.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/SumOfRightLeaves.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfRightLeaves.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_04_06_2018/VerticalOrderSum.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/VerticalOrderSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/BalancedTree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/BalancedTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/CountLeafNodes.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/CountLeafNodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/FindDiameter.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/FindDiameter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/HeightOfTree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/HeightOfTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/LevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/LevelOrderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/MirrorTree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/MirrorTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/Node.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/Node.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/NodeHeight.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/NodeHeight.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/SizeOfTree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/SizeOfTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/Tree.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/Tree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_26_05_2018/TreeIdenticalOrNot.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/TreeIdenticalOrNot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/Ancestor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/FindDistance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/FindLCA.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/FindLCA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/LeveleOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/LeveleOrderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintCommonNodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintKthAncestor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintNodeAncestors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/ReverseLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/ReverseLevelOrderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/RootToLeafToSum.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/RootToLeafToSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_30_05_2018/TwoTreesOrSame.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/TwoTreesOrSame.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/FindAVGByEachLevel.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/FindAVGByEachLevel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/GetGivenNodeLevle.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/GetGivenNodeLevle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/PrintAll_K_Distance_Nodes.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintAll_K_Distance_Nodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/PrintLeftMostAndRightMostElement.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintLeftMostAndRightMostElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/PrintLevelByLevel.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintLevelByLevel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/PrintNodesKDistance.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintNodesKDistance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/SpiralTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/SpiralTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/VerticalOrder.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/VerticalOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/date_31_05_2018/printAllPaths.java" afterPath="$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/printAllPaths.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Arrays/date_03_06_2018/DiagonalSum2.class" afterPath="$PROJECT_DIR$/out/production/Arrays/date_03_06_2018/DiagonalSum2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,36 +122,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FIndSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/FIndSum.java">
+      <file leaf-file-name="CreateWaveForm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/date17_05_201/CreateWaveForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="269">
+              <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiagonalSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiagonalSum2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="62" column="5" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="62" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,11 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java" />
-        <option value="$PROJECT_DIR$/src/date22_05_2018/Node.java" />
-        <option value="$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java" />
-        <option value="$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java" />
-        <option value="$PROJECT_DIR$/src/date22_05_2018/CheckDeadEndOrNot.java" />
         <option value="$PROJECT_DIR$/src/Trees/26/26_05_2018/Tree.java" />
         <option value="$PROJECT_DIR$/src/date_26_05_2018/Tree.java" />
         <option value="$PROJECT_DIR$/src/date_26_05_2018/Node.java" />
@@ -142,8 +196,13 @@
         <option value="$PROJECT_DIR$/src/date_04_06_2018/SumOfRightLeaves.java" />
         <option value="$PROJECT_DIR$/src/date_03_06_2018/FIndSum.java" />
         <option value="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSumUsingHash.java" />
-        <option value="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java" />
         <option value="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/FindPairRootSum.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/SumOfNodesOnLongestPath.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/ModifiedTree.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/MaxPathSumRootToLeaf.java" />
+        <option value="$PROJECT_DIR$/src/date_03_06_2018/SerializeAndDeserialize.java" />
       </list>
     </option>
   </component>
@@ -173,10 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,29 +245,20 @@
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="date_03_06_2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="date_03_06_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="DiagonalSum.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -230,15 +277,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalSum">
-    <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SerializeAndDeserialize">
+    <configuration name="FindPairRootSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_03_06_2018.*" />
+          <option name="PATTERN" value="BinaryTree.date_31_05_2018.date_03_06_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_03_06_2018.DiagonalSum" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.date_31_05_2018.date_03_06_2018.FindPairRootSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -250,14 +297,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="DiagonalSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxPathSumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_03_06_2018.*" />
+          <option name="PATTERN" value="BinaryTree.date_31_05_2018.date_03_06_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_03_06_2018.DiagonalSum2" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.date_31_05_2018.date_03_06_2018.MaxPathSumRootToLeaf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -269,14 +316,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="FIndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ModifiedTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_03_06_2018.*" />
+          <option name="PATTERN" value="BinaryTree.date_31_05_2018.date_03_06_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_03_06_2018.FIndSum" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.date_31_05_2018.date_03_06_2018.ModifiedTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -288,14 +335,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SerializeAndDeserialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_04_06_2018.*" />
+          <option name="PATTERN" value="BinaryTree.date_31_05_2018.date_03_06_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_04_06_2018.SumOfLeftLeaves" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.date_31_05_2018.date_03_06_2018.SerializeAndDeserialize" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -307,14 +354,14 @@
       <module name="Arrays" />
       <envs />
     </configuration>
-    <configuration name="SumOfRightLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfNodesOnLongestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="date_04_06_2018.*" />
+          <option name="PATTERN" value="BinaryTree.date_31_05_2018.date_03_06_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="date_04_06_2018.SumOfRightLeaves" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.date_31_05_2018.date_03_06_2018.SumOfNodesOnLongestPath" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -322,6 +369,18 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Arrays" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Arrays" />
       <envs />
@@ -342,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SumOfRightLeaves" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SumOfLeftLeaves" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FIndSum" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DiagonalSum2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DiagonalSum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindPairRootSum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SumOfNodesOnLongestPath" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ModifiedTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaxPathSumRootToLeaf" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SerializeAndDeserialize" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DiagonalSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DiagonalSum2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FIndSum" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SumOfRightLeaves" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SumOfLeftLeaves" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SerializeAndDeserialize" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaxPathSumRootToLeaf" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ModifiedTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SumOfNodesOnLongestPath" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindPairRootSum" />
       </list>
     </recent_temporary>
   </component>
@@ -383,16 +442,16 @@
       <workItem from="1527524274935" duration="3105000" />
       <workItem from="1527608801842" duration="22661000" />
       <workItem from="1527829662131" duration="11322000" />
-      <workItem from="1527925481671" duration="31045000" />
+      <workItem from="1527925481671" duration="31486000" />
+      <workItem from="1528171745929" duration="9473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246951000" />
+    <option name="totallyTimeSpent" value="256865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1374" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -403,13 +462,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6614173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3127854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3173516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -420,7 +480,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -444,9 +503,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6614173" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30365297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3173516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -462,12 +521,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/date20_05_2018/FindMaximumJ_I.java</url>
+          <url>file://$PROJECT_DIR$/src/Array/date20_05_2018/FindMaximumJ_I.java</url>
           <line>8</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/date18_05_2018/Test2.java</url>
+          <url>file://$PROJECT_DIR$/src/Array/date18_05_2018/Test2.java</url>
           <line>4</line>
           <properties />
           <option name="timeStamp" value="3" />
@@ -478,70 +537,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3402">
-          <caret line="162" column="28" lean-forward="false" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/IsInorderOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/CheckDeadEndOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/TreeIdenticalOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/HeightOfTree.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/HeightOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/MirrorTree.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/MirrorTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -549,63 +559,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/NodeHeight.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/NodeHeight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/SizeOfTree.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/SizeOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/TwoTreesOrSame.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/TwoTreesOrSame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/LevelOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/LevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-256">
           <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/LeveleOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/LeveleOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/FindDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/FindDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/Ancestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/ReverseLevelOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/ReverseLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/BalancedTree.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/BalancedTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
@@ -613,39 +616,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/CountLeafNodes.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/CountLeafNodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/RootToLeafToSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/PrintLevelByLevel.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintLevelByLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="68" column="4" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#1227#1233#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/PrintK1ToK2.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/date22_05_2018/PrintK1ToK2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="52" column="7" lean-forward="false" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date22_05_2018/SortedArrayToBST.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/date22_05_2018/SortedArrayToBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
@@ -653,7 +648,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/GetGivenNodeLevle.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/GetGivenNodeLevle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="777">
           <caret line="37" column="0" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="37" selection-end-column="0" />
@@ -661,18 +656,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/PrintNodesKDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintNodesKDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
-            <element signature="e#118#119#0" expanded="false" />
             <element signature="e#153#154#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/PrintAll_K_Distance_Nodes.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintAll_K_Distance_Nodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="51" column="39" lean-forward="false" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
@@ -680,7 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/printAllPaths.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/printAllPaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
@@ -688,7 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/FindAVGByEachLevel.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/FindAVGByEachLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
@@ -698,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/PrintLeftMostAndRightMostElement.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/PrintLeftMostAndRightMostElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
@@ -708,15 +702,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_26_05_2018/FindDiameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPreorderInorder.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/ConstructBTUsingPreorderInorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
@@ -724,7 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/ConstructBTUsingPostOrderInOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/ConstructBTUsingPostOrderInOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
@@ -732,23 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintCommonNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintNodeAncestors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/PrintKthAncestor.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintKthAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
@@ -756,7 +726,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_30_05_2018/FindLCA.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/FindLCA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
@@ -764,7 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/SpiralTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/SpiralTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
@@ -772,7 +742,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/VerticalOrderSum.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/VerticalOrderSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="37" column="56" lean-forward="false" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
@@ -780,7 +750,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_31_05_2018/VerticalOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/VerticalOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-84">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -790,7 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/MergeTwoTreesSum.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/MergeTwoTreesSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
@@ -798,7 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/IsFoldableTree.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/IsFoldableTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
@@ -806,7 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/FindMirrorNode.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/FindMirrorNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
@@ -814,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/SumOfAllParentNodes.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfAllParentNodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
@@ -822,7 +792,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/SumOfAllNodes.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfAllNodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51">
           <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
@@ -830,60 +800,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/SumOfRightLeaves.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfRightLeaves.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_03_06_2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_04_06_2018/SumOfLeftLeaves.java">
+    <entry file="file://$PROJECT_DIR$/src/date_03_06_2018.java" />
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_04_06_2018/SumOfLeftLeaves.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#187#188#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/FIndSum.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/FIndSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="588">
           <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum2.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/DiagonalSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="62" column="5" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="500">
+          <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/DiagonalSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/date_03_06_2018/DiagonalSum.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/FindPairRootSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="117">
+          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/MaxPathSumRootToLeaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_26_05_2018/FindDiameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/SerializeAndDeserialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintNodeAncestors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/PrintCommonNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/Ancestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_30_05_2018/RootToLeafToSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/ModifiedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/date_31_05_2018/date_03_06_2018/SumOfNodesOnLongestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="43" column="70" lean-forward="false" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringProblems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/date17_05_201/CreateWaveForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
         </state>
       </provider>
